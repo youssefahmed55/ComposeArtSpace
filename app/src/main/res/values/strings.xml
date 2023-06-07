@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComposeArtSpace</string>
+    <string name="sailing_under_the_bridge">Sailing Under the Bridge</string>
+    <string name="kat_kuan_2017">Kat Kuan (2017)</string>
+    <string name="still_life_of_blue_rose_and_other_flowers">Still Life of Blue Rose and Other Flowers</string>
+    <string name="owen_scott_2021">Owen Scott (2021)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
